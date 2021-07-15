@@ -1,0 +1,7 @@
+@import url('../fonts/stylesheet.css');
+@import url('default.css');
+
+/*Bootstrap-4 колонке сделать отступ*/
+[class*="col-"] {
+    margin-bottom: 30px;
+}
